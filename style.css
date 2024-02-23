@@ -1,0 +1,11 @@
+/* Properties which are inherited by the child element*/
+body {
+  font-size: large;
+  color: red;
+}
+
+/* Properties which are not inherited by the child element */
+/* as we can see border style is not inhereted by default */
+body {
+  border: 2px;
+}
