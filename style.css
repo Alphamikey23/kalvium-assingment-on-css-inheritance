@@ -32,3 +32,9 @@ p {
 }
 
 /* body css is inhereted in p element also */
+
+/* p {font-family: Arial; line-height:150%;}
+inherits from body
+{background-color: white; color: black;}
+Applied:
+{font-family:arial,line-height:150%;background-color:white; color:black;} */
